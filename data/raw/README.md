@@ -1,4 +1,4 @@
-This directory should contains the file(s) :
+This directory should contain the file(s) :
 ```
  - fr.openfoodfacts.org.products.csv
 ```
